@@ -1,0 +1,5 @@
+com/sanitas/calculadora/entrypoint/CalculadoraResource.class
+com/sanitas/calculadora/usecase/CalculadoraCompute.class
+com/sanitas/calculadora/CalculadoraApplication.class
+com/sanitas/calculadora/domain/bean/ResultCompute$ResultComputeBuilder.class
+com/sanitas/calculadora/domain/bean/ResultCompute.class

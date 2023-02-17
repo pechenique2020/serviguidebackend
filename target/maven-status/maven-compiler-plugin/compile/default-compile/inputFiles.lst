@@ -1,0 +1,6 @@
+/home/pechenique/Escritorio/test/PruebaTecnicaSanitas_Back/calculadora/src/main/java/com/sanitas/calculadora/usecase/CalculadoraCompute.java
+/home/pechenique/Escritorio/test/PruebaTecnicaSanitas_Back/calculadora/src/main/java/com/sanitas/calculadora/CalculadoraApplication.java
+/home/pechenique/Escritorio/test/PruebaTecnicaSanitas_Back/calculadora/src/main/java/com/sanitas/calculadora/domain/bean/ApplicationConfiguration.java
+/home/pechenique/Escritorio/test/PruebaTecnicaSanitas_Back/calculadora/src/main/java/com/sanitas/calculadora/domain/bean/ResultCompute.java
+/home/pechenique/Escritorio/test/PruebaTecnicaSanitas_Back/calculadora/src/main/java/com/sanitas/calculadora/domain/bean/CalculateException.java
+/home/pechenique/Escritorio/test/PruebaTecnicaSanitas_Back/calculadora/src/main/java/com/sanitas/calculadora/entrypoint/CalculadoraResource.java
