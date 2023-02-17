@@ -18,7 +18,7 @@ public class CalculadoraCompute {
             int newValue = Integer.valueOf(entryValue);
             return newValue;
         } catch (Exception e){
-            throw new CalculateException(e.getMessage());
+            throw new CalculateException(e.getCause().getMessage());
         }
     }
     private ResultCompute computeEntriesValue(int valueA, int valueB){
